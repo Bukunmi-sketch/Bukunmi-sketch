@@ -7,7 +7,7 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/bukunmi-olarinde-194b0b207">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bukunmi Badge"/>
   </a>
   <a href="https://mobile.facebook.com/bukunmi.olarinde.9">
     <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
    <a href="https://www.Instagram.com/bukunmiiie">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram Badge"/>
   </a>
    <a href="https://www.pinterest.com/bukunmiiie">
     <img src="https://img.shields.io/badge/Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest Badge"/>
