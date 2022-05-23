@@ -7,7 +7,7 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/bukunmi-olarinde-194b0b207">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bukunmi Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bukunmi"/>
   </a>
   <a href="https://mobile.facebook.com/bukunmi.olarinde.9">
     <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook Badge"/>
@@ -33,11 +33,11 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. 🇳🇬
-- :telescope: I’m working as a Software Engineer and as a freelancer.
+- :telescope: I’m  a Fullstack php developer.
 
 - :seedling:Currently learning Figma
 
-- 🔭 I’m currently working on social media and E-commerce website
+- 🔭 I’m available for any form of project collaboration
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bukunmi-sketch-gold?style=flat&logo=Whatsapp&logoColor=white)](https://www.linkedin.com/in/bukunmi-olarinde-194b0b207)
 
