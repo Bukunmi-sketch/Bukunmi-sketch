@@ -1,9 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
-</div>
 
 ### Hi there 👋
-#I'm Olarinde Bukunmi, a software engineer , web developer.
+## I'm Olarinde Bukunmi, a software engineer , web developer.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/bukunmi-olarinde-194b0b207">
@@ -24,23 +21,25 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Bukunmi-sketch&style=flat-square&color=blue" alt=""/>
-
+<!--
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" height="300"/>
 </div>
+-->
 
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. 🇳🇬
-- :telescope: I’m  a Fullstack php developer.
+I am a Web Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. 🇳🇬
+- :telescope: Tech enthusiast.
 
 - :seedling:Currently learning Figma
 
 - 🔭 I’m available for any form of project collaboration
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-bukunmi-sketch-gold?style=flat&logo=Whatsapp&logoColor=white)](https://www.linkedin.com/in/bukunmi-olarinde-194b0b207)
-
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/bukunmi-olarinde-194b0b207">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bukunmi"/>
+  </a>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -55,6 +54,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jquery" alt="jquery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+ 
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 ---
