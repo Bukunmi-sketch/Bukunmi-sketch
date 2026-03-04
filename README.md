@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-## I'm Olarinde Bukunmi, a software engineer , web developer.
+## I'm Olarinde Bukunmi, a software engineer.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/bukunmi-olarinde-194b0b207">
@@ -30,7 +30,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Web Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. 🇳🇬
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. 🇳🇬
 - :telescope: Tech enthusiast.
 
 - :seedling:Currently learning Figma
