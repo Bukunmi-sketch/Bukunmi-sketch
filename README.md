@@ -33,7 +33,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria. 🇳🇬
 - :telescope: Tech enthusiast.
 
-- :seedling:Currently learning Figma
+- :seedling:
 
 - 🔭 I’m available for any form of project collaboration
 
